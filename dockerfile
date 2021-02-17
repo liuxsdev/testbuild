@@ -1,4 +1,4 @@
-FROM alpine
+FROM multiarch/alpine:aarch64-edge
 
 ENV ADDRESS ADDRESS
 ENV POOL POOL
